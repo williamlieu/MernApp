@@ -1,5 +1,12 @@
 # MernApp
-This web application is built with the M.E.R.N stack.
-It will display the login page(signin/signup/logout)
 
-#Tools used
+Minimalist application with authentication.
+
+This project is using these technologies:
+
+- React for the front-end
+- Express and Mongoose for the back-end
+- MongoDB for the database
+
+#Requirements
+
